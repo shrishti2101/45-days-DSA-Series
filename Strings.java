@@ -1,4 +1,4 @@
-import java.util.*;
+// import java.util.*;
 class Strings{
     public static void checkVowel(String s){
         char firstChar=s.charAt(0);
@@ -23,8 +23,8 @@ class Strings{
 
         checkVowel(s);
         int n=543;
-        int rev=0;
-        int tem=n;
+        // int rev=0;
+        // int tem=n;
         // while(n>0){
         //     tem=n%10;
         //     rev=rev*10+tem;

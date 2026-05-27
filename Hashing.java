@@ -1,7 +1,7 @@
 public class Hashing {
     public static void main(String args[]){
         //Frequency of numbers
-        int arr[]={1,1,2,5,3,7};
+        // int arr[]={1,1,2,5,3,7};
         // int hash []=new int [13];
         // for(int i=0;i<arr.length;i++){
         //   hash[arr[i]] +=1;
